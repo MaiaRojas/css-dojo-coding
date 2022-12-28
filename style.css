@@ -1,3 +1,7 @@
+* {
+    font-family: sans-serif;
+}
+
 .header {
   background-color: black;
 }
@@ -5,8 +9,8 @@
 h1 {
   color: white ;
   display: inline;
-  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
+
 p {
   color: #00ffff;
   display: inline;
