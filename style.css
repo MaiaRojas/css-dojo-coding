@@ -4,7 +4,7 @@ button {
 }
 
 .btn-search {
-  border-color: darkcyan !important;
+  border-color: darkcyan;
   border-radius: 15px;
   border-style: solid;
   color:darkcyan;
