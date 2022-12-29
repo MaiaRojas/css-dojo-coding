@@ -1,35 +1,36 @@
-* {
-    font-family: sans-serif;
-}
-
-.header {
-  background-color: black;
-}
-
-h1 {
-  color: white ;
-  display: inline;
-}
-
-p {
-  color: #00ffff;
-  display: inline;
-}
-
-h2 {
-  background-color: #663399;
-  color: white;
-  text-align: center;
-  font-style: italic;
+button {
+  display: block;
   margin: 5px 0px;
 }
 
-.footer {
-  background-color: #a0c5e8;
-  text-align: end;
+.btn-search {
+  border-color: darkcyan !important;
+  border-radius: 15px;
+  border-style: solid;
+  color:darkcyan;
+  font-weight: bold;
   padding: 5px 0px;
+  text-align: center;
+  width: 150px;
 }
 
-a {
-  color: black;
+.btn-more {
+  background-color:aquamarine;
+  border-color: aquamarine;
+  border-radius: 50%;
+  border-style: solid;
+  color: white;
+  font-size: 20px;
+  height: 40px;
+  width: 40px;
+}
+
+.btn-account {
+  background-color: cornflowerblue;
+  border-color: black;
+  border-style: solid;
+  box-shadow: 3px 3px black;
+  color: white;
+  height: 40px;
+  width: 150px;
 }
