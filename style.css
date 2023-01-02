@@ -3,41 +3,32 @@
   color: white;
   margin: 0px;
 }
+div {
+  text-align: center;
+}
 
-.nav {
-  background-color: #333333;
-  color: white;
+.row {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0px 10px;
-  height: 60px;
+  margin-bottom: 5px;
 }
 
-h1 {
-  font-weight: bold;
+.col {
+  flex: 1;
+  background-color: cadetblue;
+  margin-right: 5px;
+  height: 50px;
 }
 
-.active {
-  color: white;
+.col-2 {
+  flex: 2;
+  background-color: cadetblue;
+  margin-right: 5px;
+  height: 50px;
 }
 
-li {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-li > a {
-  text-decoration: none;
-  font-weight: 600;
-  color: #8a8a8a;
-}
-
-.btn {
-  background-color: darkcyan;
-  border: 2px solid black;
-  padding: 8px;
-  font-weight: 600;
-  box-shadow: 3px 3px black;
-  font-size: 16px;
+.col-3 {
+  flex: 3;
+  background-color: cadetblue;
+  margin-right: 5px;
+  height: 50px;
 }
