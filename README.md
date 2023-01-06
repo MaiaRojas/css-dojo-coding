@@ -1,6 +1,5 @@
 # css-dojo-coding
 Examples for css
 
-<img width="851" alt="Screen Shot 2022-12-28 at 22 54 33" src="https://user-images.githubusercontent.com/25912510/209901385-c3fdc79c-c7c5-4d4e-a911-9e2f606969d6.png">
-
+<img width="1014" alt="Screen Shot 2023-01-06 at 12 49 20" src="https://user-images.githubusercontent.com/25912510/211069731-2a5d130a-647e-44c2-9c40-6fc555265a4d.png">
 
